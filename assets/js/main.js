@@ -1,0 +1,3 @@
+/*
+  Este es un comentario dentro del documento de js
+*/
